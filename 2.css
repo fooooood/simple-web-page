@@ -1,0 +1,13 @@
+div {
+	height: 600px;
+	background-color: #ddd;
+}
+img {
+	float: right;
+	height: 600px;
+}
+nav {
+	float: left;
+	height: 600px;
+	text-align: center;
+}
